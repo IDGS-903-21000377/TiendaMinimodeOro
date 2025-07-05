@@ -1,0 +1,16 @@
+# Archivos de Visual Studio
+.vs/
+
+# Node modules (si tienes)
+node_modules/
+
+# Archivos de compilación
+dist/
+build/
+
+# Archivos temporales y logs
+*.log
+
+# Otros archivos basura
+*.tmp
+*.bak
